@@ -3,3 +3,4 @@ Feature1.
 Feature2.
 
 New 1.
+New 2.
